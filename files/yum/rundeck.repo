@@ -1,0 +1,6 @@
+#bintray-rundeck-candidate-rpm - packages by rundeck from Bintray
+[bintray-rundeck-candidate-rpm]
+name=bintray-rundeck-candidate-rpm
+baseurl=http://dl.bintray.com/rundeck/candidate-rpm
+gpgcheck=0
+enabled=1
